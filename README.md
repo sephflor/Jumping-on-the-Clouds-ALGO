@@ -1,1 +1,1 @@
-# Jumping-on-the-Clouds-ALGO
+# Jumping-on-the-Clouds-ALGO.This solution finds the minimum jumps needed to navigate through safe clouds (0s) while avoiding thunderclouds (1s) by always attempting to jump 2 steps when possible, otherwise jumping 1 step, until reaching the end.
